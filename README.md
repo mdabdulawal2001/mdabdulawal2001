@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+Profile;Building+Digital+Experiences;Code.+Deploy.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+Profile; أهلًا + وسهلًا;" />
 </h1>
 
 <h2 align="center">👋 I'm MD. ABDUL AWAL TOHA</h2>
