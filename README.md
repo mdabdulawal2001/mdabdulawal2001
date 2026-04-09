@@ -18,7 +18,7 @@
 
 - 🚀 Full Stack Web Developer (in progress)
 - ⚛️ React Developer
-- <img src="https://skillicons.dev/icons?i=nextjs" height="16" style="vertical-align: middle;" /> Next.js Learner
+- <img src="https://skillicons.dev/icons?i=nextjs" height="18" style="vertical-align: middle;" /> Next.js Learner
 - 🧠 Strong JavaScript Foundation
 - 🎯 Focused on real-world development
 
