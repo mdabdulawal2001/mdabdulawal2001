@@ -51,7 +51,7 @@
 
 - 📧 **Email:** [mdabdulawal2001@gmail.com](mailto:mdabdulawal2001@gmail.com)
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/md-abdul-awal-toha/](https://www.linkedin.com/in/md-abdul-awal-toha/)
-- 💻 **GitHub:** [mdabdulawal2001](https://github.com/mdabdulawal2001)
+- 💻 **GitHub:** [[mdabdulawal2001](https://github.com/mdabdulawal2001)](https://github.com/mdabdulawal2001)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mdabdulawal2001&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
