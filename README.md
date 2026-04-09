@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdabdulawal2001/mdabdulawal2001/main/banner.png" alt="Banner" width="100%" />
+![1000040949 jpg](https://github.com/user-attachments/assets/97bf8ab9-08f3-4c33-907c-4fd522c16043)<p align="center">
+  <img src="" al![1000040949 jpg](https://github.com/user-attachments/assets/cc47f3d7-3177-4206-a0d2-c2bb08c0669b)
+t="Banner" width="100%" />
 </p>
 
 <h1 align="center">
