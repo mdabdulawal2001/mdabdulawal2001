@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=60&color=00F7FF&lines=Welcome;أهلاً+وسهلاً" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=60&color=00F7FF&lines=Welcome;أهلًا+وسهلًا" />
 </h1>
 
 <h2 align="center">
@@ -18,7 +18,7 @@
 
 - 🚀 Full Stack Web Developer (in progress)
 - ⚛️ React Developer
-- <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" /> Next.js Learner
+- <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js Learner
 - 🧠 Strong JavaScript Foundation
 - 🎯 Focused on real-world development
 
