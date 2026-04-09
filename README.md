@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdabdulawal2001/mdabdulawal2001/main/banner.png" alt="Banner" width="100%" />
-</p>
+![1000040949 jpg](https://github.com/user-attachments/assets/f27e6fb9-f355-458a-bddd-a32d72a71835)
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+Profile;أهلًا+وسهلًا" />
