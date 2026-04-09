@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+Profile; أهلًا + وسهلًا;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+Profile;أهلاً+وسهلاً" />
 </h1>
 
 <h2 align="center">👋 I'm MD. ABDUL AWAL TOHA</h2>
 <p align="center">
-  <strong>Full Stack Web Developer</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&height=40&lines=Full+Stack+Web+Developer;React+Expert;Problem+Solver" />
 </p>
 
 <p align="center">
@@ -34,26 +34,3 @@
 </div>
 
 ---
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulawal2001&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-- 📧 **Email:** [mdabdulawal2001@gmail.com](mailto:mdabdulawal2001@gmail.com)
-- 🔗 **LinkedIn:** [MD. ABDUL AWAL TOHA](https://www.linkedin.com/in/md-abdul-awal-toha/)
-- 💻 **GitHub:** [mdabdulawal2001](https://github.com/mdabdulawal2001)
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mdabdulawal2001&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
