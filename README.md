@@ -1,7 +1,5 @@
-![1000040949 jpg](https://github.com/user-attachments/assets/97bf8ab9-08f3-4c33-907c-4fd522c16043)<p align="center">
-  <img src="" al![1000040949 jpg](https://github.com/user-attachments/assets/cc47f3d7-3177-4206-a0d2-c2bb08c0669b)
-t="Banner" width="100%" />
-</p>
+![1000040949 jpg](https://github.com/user-attachments/assets/8212e303-85c7-4c24-bd6d-46c922aa48af)
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+Profile;أهلاً+وسهلاً+بكم;Building+Digital+Experiences" />
