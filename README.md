@@ -50,7 +50,7 @@
 ### 🤝 Connect with Me
 
 - 📧 **Email:** [mdabdulawal2001@gmail.com](mailto:mdabdulawal2001@gmail.com)
-- 🔗 **LinkedIn:** [MD. ABDUL AWAL TOHA](https://www.linkedin.com/in/md-abdul-awal-toha/)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/md-abdul-awal-toha/](https://www.linkedin.com/in/md-abdul-awal-toha/)
 - 💻 **GitHub:** [mdabdulawal2001](https://github.com/mdabdulawal2001)
 
 <p align="right">
