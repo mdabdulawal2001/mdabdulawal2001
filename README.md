@@ -1,46 +1,60 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdabdulawal2001/mdabdulawal2001/main/banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=60&color=00F7FF&lines=Welcome;أهلًا+وسهلًا" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+Profile;أهلاً+وسهلاً+بكم;Building+Digital+Experiences" />
 </h1>
 
-<h2 align="center">
-  <span style="animation: glow 2s ease-in-out infinite alternate;">
-    I AM MD. ABDUL AWAL TOHA
-  </span>
-</h2>
+<h2 align="center">👋 I'm MD. ABDUL AWAL TOHA</h2>
+<p align="center">
+  <strong>Frontend Architect | React Specialist | Content Creator</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=400&height=40&color=00F7FF&lines=Full+Stack+Web+Developer" />
+  <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mdabdulawal2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🚀 Full Stack Web Developer (in progress)
-- ⚛️ React Developer
-- <img src="https://skillicons.dev/icons?i=nextjs" height="18" style="position: relative; top: 6;" /> Next.js Learner
-- 🧠 Strong JavaScript Foundation
-- 🎯 Focused on real-world development
+- 🔭 **Currently working on:** Advanced Full-Stack projects using **Next.js** and **Node.js**.
+- ⚡ **Specialized in:** Building responsive, high-performance UIs with **React** and **Tailwind CSS**.
+- 🎓 **Background:** Web Developer with a strong focus on functional programming and modern JavaScript.
+- 🎙️ **Other Interests:** Audio Engineering, Sound Design, and Content Creation at **Center Of Light**.
+- 🎯 **Goal:** To create impactful web solutions and bridge the gap between design and code.
 
 ---
 
-## ⚡ Tech Stack
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,daisyui,nodejs,express,mongodb,git,github,vscode,figma,ps" />
+</div>
+
+---
+
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulawal2001&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🤝 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight" />
+- 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🎬 **YouTube:** [Center Of Light](https://youtube.com/@your-channel)
+- 📧 **Email:** mdabdulawal2001@gmail.com
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mdabdulawal2001&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
-
----
-
-## 🌐 Contact
-
-- 📧 mdabdulawal2001@gmail.com  
-- 🔗 https://github.com/mdabdulawal2001
