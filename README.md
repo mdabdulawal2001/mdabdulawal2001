@@ -37,18 +37,20 @@
 <!-- 📈 GitHub Analytics -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- Left Card: Vertical Middle Alignment -->
+      <td width="50%" align="center" valign="middle">
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <!-- Right Card: Vertical Middle Alignment -->
+      <td width="50%" align="center" valign="middle">
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Contribution Profile Details -->
 <p align="center">
