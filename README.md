@@ -39,12 +39,11 @@
 
 <p align="center">
   <!-- GitHub Overall Stats -->
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=7dcfff" alt="GitHub Stats" />
+  <img width="48%" height="198" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=7dcfff" alt="GitHub Stats" />
   
-  <!-- Most Used Languages (Compact Bar Layout) -->
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
+  <!-- Most Used Languages (Height-Matched) -->
+  <img width="48%" height="198" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
 </p>
-
 <!-- Contribution Profile Details -->
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdulawal2001&theme=tokyonight" alt="Contribution Summary" />
