@@ -37,16 +37,18 @@
 <!-- 📈 GitHub Analytics -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=445"
+    width="49%"
+    alt="Top Languages"
+  />
+</p>
 
 <!-- Contribution Profile Details -->
 <p align="center">
