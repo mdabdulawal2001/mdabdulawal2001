@@ -37,20 +37,10 @@
 <!-- 📈 GitHub Analytics -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- Left Card with matched height & padding adjustment -->
-      <td width="50%" align="center" valign="middle">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=7dcfff&card_width=495" alt="GitHub Stats" />
-      </td>
-      <!-- Right Card (Top Languages) -->
-      <td width="50%" align="center" valign="middle">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+</p>
 
 <!-- Contribution Profile Details -->
 <p align="center">
