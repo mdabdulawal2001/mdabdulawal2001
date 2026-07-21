@@ -35,17 +35,15 @@
 ---
 
 <!-- 📈 GitHub Analytics -->
-<h2 align="center">📈 GitHub Analytics & Stats</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 
+<!-- Primary Stats & Languages -->
 <p align="center">
-  <img align="center" width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img align="center" width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulawal2001&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
+<!-- Profile Details Summary (Your Choice) -->
 <p align="center">
   <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdulawal2001&theme=tokyonight" alt="Contribution Summary" />
 </p>
