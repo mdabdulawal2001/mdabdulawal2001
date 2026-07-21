@@ -37,13 +37,18 @@
 <!-- 📈 GitHub Analytics -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=7dcfff" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages (Height Matched via API) -->
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&card_width=400&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Contribution Profile Details -->
 <p align="center">
