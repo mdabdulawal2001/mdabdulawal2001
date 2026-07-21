@@ -34,15 +34,20 @@
 
 ---
 
-### 📈 GitHub Analytics
+<!-- 📈 GitHub Analytics -->
+<h2 align="center">📈 GitHub Analytics & Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulawal2001&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mdabdulawal2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdulawal2001&theme=tokyonight" alt="Contribution Summary" />
 </p>
 
 ---
