@@ -38,12 +38,13 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <!-- Left Card: Vertical Middle Alignment -->
+      <td width="50%" align="center" valign="middle">
         <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=mdabdulawal2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center" valign="middle">
         <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdabdulawal2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
